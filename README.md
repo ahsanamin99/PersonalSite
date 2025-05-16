@@ -14,4 +14,4 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 To run locally:
 
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/ahsanamin99/PersonalSite/tree/main
