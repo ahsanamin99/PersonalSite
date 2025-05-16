@@ -1,2 +1,1 @@
-# PersonalSite
-Personal website 
+# my-portfolio
